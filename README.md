@@ -1,4 +1,4 @@
 - 👋 Hi, I’m João Almeida (@04ramalmeida), an aspiring software developer from Portugal.
 - ✏️ Languages I use: C#, HTML, CSS, JS
 - 💻 Tech I use: ASP.NET Core, Microsoft SQL Server
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-raminhos-de-almeida-70b1a2306/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/04ramalmeida/)
